@@ -16,30 +16,6 @@
             </div>
         </div>
 
-        <div class="d-flex flex-wrap justify-space-around">
-            <v-card
-                v-for="donation in $root.$data.DONATION_LINKS"
-                :key="donation.url"
-                outlined
-                max-width="16rem"
-                class="ma-4 d-flex flex-column"
-                ripple
-                :href="donation.url"
-                target="_blank"
-                :class="donation.highlight ? 'v-card--p-highlight' : null"
-            >
-                <v-card-title>
-                    <div class="pr-2">
-                        <liberapay-icon v-if="donation.icon === 'liberapay'" />
-                        <paypal-icon v-if="donation.icon === 'paypal'" />
-                        <patreon-icon v-if="donation.icon === 'patreon'" />
-                    </div>
-                    {{ donation.title }}</v-card-title
-                >
-                <v-card-subtitle>{{ donation.description }} </v-card-subtitle>
-            </v-card>
-        </div>
-
         <div class="d-flex justify-space-between">
             <v-btn text @click="$bubble('prevStep')">Back</v-btn>
         </div>

@@ -1,76 +1,47 @@
 {
     "latest": {
+        "flame": [
+            {
+                "version": "1689152634",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/flame-safetelecom-11.0.0-RELEASE-ota_update-2023.07.12.05-1689152634.zip"
+            }
+        ],
+        "barbet": [
+            {
+                "version": "1689179864",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/barbet-safetelecom-11.0.0-RELEASE-ota_update-2023.07.12.12-1689179864.zip"
+            }
+        ],
+        "blueline": [
+            {
+                "version": "1689185266",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/blueline-safetelecom-11.0.0-RELEASE-ota_update-2023.07.12.14-1689185266.zip"
+            }
+        ],
         "taimen": [
             {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_taimen-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_taimen-factory_11.5.0-gapps.zip"
+                "version": "1689955876",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/taimen-safetelecom-11.0.0-RELEASE-ota_update-2023.07.21.12-1689955876.zip"
             }
         ],
         "walleye": [
             {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_walleye-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_walleye-factory_11.5.0-gapps.zip"
+                "version": "1689357167",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/walleye-safetelecom-11.0.0-RELEASE-ota_update-2023.07.14.13-1689357167.zip"
             }
         ],
-        "bramble": [
+        "sunfish": [
             {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_redbull/v11.5.0/proton-aosp_bramble-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_redbull/v11.5.0/proton-aosp_bramble-factory_11.5.0-gapps.zip"
-            }
-        ],
-        "redfin": [
-            {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_redbull/v11.5.0/proton-aosp_redfin-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_redbull/v11.5.0/proton-aosp_redfin-factory_11.5.0-gapps.zip"
-            }
-        ],
-        "coral": [
-            {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_coral/v11.5.0/proton-aosp_coral-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_coral/v11.5.0/proton-aosp_coral-factory_11.5.0-gapps.zip"
-            }
-        ],
-        "flame": [
-            {
-                "version": "11.5.0",
-                "variant": "minimal",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_coral/v11.5.0/proton-aosp_flame-factory_11.5.0.zip"
-            },
-            {
-                "version": "11.5.0",
-                "variant": "gapps",
-                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_coral/v11.5.0/proton-aosp_flame-factory_11.5.0-gapps.zip"
+                "version": "2023070415",
+                "variant": "full",
+                "url": "https://storage.googleapis.com/kosheros-store/updates/kosheros-18.1-2023.07.04.15-RELEASE-sunfish_signed.zip"
             }
         ]
     }
 }
+
